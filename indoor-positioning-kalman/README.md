@@ -9,5 +9,5 @@ An indoor tracking system using ultrasonic sensors to estimate the position of a
 ### Experimental Results
 Below are the results of the tracking for different trajectories. The red line represents raw noisy data, while the green line shows the filtered path.
 
-![Square Trajectory](./results/square_plot.png)
-![Infinity Trajectory](./results/infinity_plot.png)
+![Square Trajectory](./square_plot.png)
+![Infinity Trajectory](./infinity_plot.png)
